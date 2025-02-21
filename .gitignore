@@ -3,6 +3,6 @@
 ################################################################################
 
 /.vs
-/Med-Helper/.vs/Med-Helper
-/Med-Helper/bin/Debug
+/Med-Helper/.vs
+/Med-Helper/bin
 /Med-Helper/obj
